@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+A hidden file .git appears, it contains the structure of the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
